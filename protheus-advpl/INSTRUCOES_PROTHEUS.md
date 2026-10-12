@@ -40,8 +40,8 @@ PrepareIn=99,01
    - **IP ou domínio**: O IP do servidor onde o Protheus AppServer está rodando (ex: `192.168.0.100`).
    - **Porta**: `8080` (ou a porta definida no `appserver.ini`).
 
-   -  **IP ou domínio**: https://govendas-aplicativo-android-com-integra-xj67.onrender.com.
-   -  **URL base(opcional)**: https://govendas-aplicativo-android-com-integra-xj67.onrender.com.
+   -  **IP ou domínio de teste**: https://govendas-aplicativo-android-com-integra-xj67.onrender.com.
+   -  **URL base(opcional) de teste**: https://govendas-aplicativo-android-com-integra-xj67.onrender.com.
 
    - **Nome do ambiente**: Nome da seção do ambiente (ex: `REST` ou `P12`).
    - **Usuário Totvs**: Seu usuário do Protheus (ex: `admin`).
