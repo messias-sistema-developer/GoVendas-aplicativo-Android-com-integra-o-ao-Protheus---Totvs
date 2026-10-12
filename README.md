@@ -39,6 +39,11 @@ O repositório inclui um servidor mock em **Node.js** (`mock-server/server.js`) 
    ```
    *(O servidor rodará por padrão na porta `3000` em `http://localhost:3000` ou `http://10.0.2.2:3000` para emuladores Android).*
 
+   pode tambem usar url de teste:
+   IP ou dominio      - https://govendas-aplicativo-android-com-integra-xj67.onrender.com
+   URL base(opcional) - https://govendas-aplicativo-android-com-integra-xj67.onrender.com
+   
+
 ### Configurando o Aplicativo Android para o Mock Server:
 1. Abra o app **GoVendas** no Android Studio / Emulador ou Dispositivo Mobile.
 2. Acesse a tela de **Configuração** (ícone de engrenagem).
