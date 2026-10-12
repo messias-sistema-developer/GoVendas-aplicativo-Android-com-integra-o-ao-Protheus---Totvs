@@ -39,11 +39,15 @@ PrepareIn=99,01
 2. Preencha:
    - **IP ou domínio**: O IP do servidor onde o Protheus AppServer está rodando (ex: `192.168.0.100`).
    - **Porta**: `8080` (ou a porta definida no `appserver.ini`).
+
+   -  **IP ou domínio**: https://govendas-aplicativo-android-com-integra-xj67.onrender.com.
+   -  **URL base(opcional)**: https://govendas-aplicativo-android-com-integra-xj67.onrender.com.
+
    - **Nome do ambiente**: Nome da seção do ambiente (ex: `REST` ou `P12`).
    - **Usuário Totvs**: Seu usuário do Protheus (ex: `admin`).
    - **Senha Totvs**: Sua senha do Protheus.
-3. Clique em **Testar Conexão**. O aplicativo enviará uma requisição para `http://<IP>:8080/api/vendas/teste-conexao`.
-4. Clique em **Salvar**.
+4. Clique em **Testar Conexão**. O aplicativo enviará uma requisição para `http://<IP>:8080/api/vendas/teste-conexao`.
+5. Clique em **Salvar**.
 
 ---
 
