@@ -5,7 +5,7 @@
 
 Projeto Android nativo para vendas, orçamentos, garantia, seguro e integração REST para TOTVS Protheus.
 
-precisa baixar o APK e instalar no dispositivo Android 
+link para download Android : https://play.google.com/store/apps/details?id=com.govendas
 
 ---
 
